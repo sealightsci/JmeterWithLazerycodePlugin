@@ -108,7 +108,7 @@
                   <argument>-Dsl.log.enabled=true</argument>
                   <argument>-Dsl.log.level=INFO</argument>
                   <argument>-Dsl.log.toConsole=true</argument>
-                  <argument>-Dsl.pathToMetaJson=&quot;D:\tmp\kuku1\b.json&quot;</argument>
+                  <!--<argument>-Dsl.pathToMetaJson=&quot;D:\tmp\kuku1\b.json&quot;</argument>-->
                   <argument>-Dsl.includes=&quot;*edu.lmu.*&quot;</argument>
                   <argument>-Dsl.branchName=&quot;origin/master&quot;</argument>
                   <argument>-Dsl.buildName=&quot;81&quot;</argument>
