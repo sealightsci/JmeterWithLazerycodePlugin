@@ -119,7 +119,7 @@
                   <argument>-Dsl.proxy=&quot;http://127.0.0.1:8888&quot;</argument>
                   <argument>-Dsl.server=&quot;http://52.50.240.57:8080/api&quot;</argument>
                   <argument>-Dsl.customerId=&quot;mod&quot;</argument>
-                  <argument>-javaagent:C:\Users\shahar\workspace\sealights\SL.OnPremise.Agents.Java\java-agent-bootstrapper\target\java-agent-bootstrapper-1.0.0-SNAPSHOT.jar</argument>
+                  <argument>-javaagent:/tmp/artifacts/sl-test-listener-1.7.255.jar</argument>
                 </arguments>
               </jMeterProcessJVMSettings>
             </configuration>
