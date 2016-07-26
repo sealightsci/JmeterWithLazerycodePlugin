@@ -117,7 +117,7 @@
                   <argument>-Dsl.moduleName=MavenExample</argument>
                   <argument>-Dsl.appName=MavenExample</argument>
                   <!--<argument>-Dsl.proxy=http://127.0.0.1:8888</argument>-->
-                  <argument>-Dsl.server=http://52.50.240.57:8080/api</argument>
+                  <argument>-Dsl.server=http://52.209.172.200:8080/api</argument>
                   <argument>-Dsl.customerId=mod</argument>
                   <argument>-javaagent:/tmp/artifacts/sl-test-listener-1.7.255.jar</argument>
                 </arguments>
